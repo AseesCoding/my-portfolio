@@ -1,0 +1,39 @@
+img
+{
+    border:solid;
+    border-width: 5px;
+    border-color: red;
+    
+}
+
+body
+{
+
+    background-color:turquoise;
+    
+}
+
+.heading
+{
+
+    color:purple;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+
+.projects
+{
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+    color: red;
+    font-size: 20px;
+
+}
+
